@@ -10,6 +10,8 @@
 - Feel free to DM me on [Twitter] (`zedbydade`)
 # Stats
 
+![Languages by File Size Totals](https://github-readme-stats.vercel.app/api/top-langs/?username=zedbydade&cache_seconds=86400&layout=compact&langs_count=16&custom_title=Languages%20by%20File%20Size%20Totals&theme=transparent)
+
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
